@@ -22,7 +22,6 @@ O grande diferencial deste projeto é a construção de uma **API REST puramente
 
 * **Back-End:** Node.js (Vanilla / Módulos Nativos `http` e `url`)
 * **Front-End (Teste):** HTML5 e JavaScript Vanilla (Fetch API e History API)
-* **Testes de API:** Postman / Insomnia 
 
 ---
 
