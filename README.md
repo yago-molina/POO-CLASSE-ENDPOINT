@@ -3,7 +3,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[cite_start]Este repositório contém a entrega da **Atividade de Pesquisa 2 - Back-End** do curso de Programação do SENAI Cruzeiro. 
+Este repositório contém a entrega da **Atividade de Pesquisa 2 - Back-End** do curso de Programação do SENAI Cruzeiro. 
 
 O grande diferencial deste projeto é a construção de uma **API REST puramente nativa** utilizando apenas o módulo `http` do Node.js, sem o auxílio de frameworks como o Express. O objetivo é solidificar os fundamentos do protocolo HTTP, Roteamento nativo e Programação Orientada a Objetos (POO).
 
