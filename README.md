@@ -2,34 +2,33 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SENAI](https://img.shields.io/badge/SENAI-Cruzeiro-red?style=for-the-badge)
 
-[cite_start]Este repositório contém a entrega da **Atividade de Pesquisa 2 - Back-End** do curso de Programação do SENAI Cruzeiro[cite: 1, 6]. 
+[cite_start]Este repositório contém a entrega da **Atividade de Pesquisa 2 - Back-End** do curso de Programação do SENAI Cruzeiro. 
 
-O grande diferencial deste projeto é a construção de uma **API REST puramente nativa** utilizando apenas o módulo `http` do Node.js, sem o auxílio de frameworks como o Express. [cite_start]O objetivo é solidificar os fundamentos do protocolo HTTP, Roteamento nativo e Programação Orientada a Objetos (POO)[cite: 4, 14, 60].
-
----
-
-## 🎯 Objetivos da Atividade
-
-* [cite_start]**POO na Prática:** Modelar e implementar a classe `Mensagem` aplicando conceitos rígidos de **Encapsulamento** (atributos privados) e **Responsabilidade Única**[cite: 56, 71].
-* [cite_start]**Serialização JSON:** Criação de métodos seguros para expor dados privados da classe em formato JSON[cite: 34, 72].
-* [cite_start]**Endpoints REST:** Expor a classe através de um endpoint utilizando o verbo HTTP `GET`[cite: 32, 57, 73].
-* [cite_start]**Comunicação Cliente-Servidor:** Entender o fluxo de requisição e resposta (Request/Response) e manipulação de parâmetros de URL (Query Strings)[cite: 61].
+O grande diferencial deste projeto é a construção de uma **API REST puramente nativa** utilizando apenas o módulo `http` do Node.js, sem o auxílio de frameworks como o Express. O objetivo é solidificar os fundamentos do protocolo HTTP, Roteamento nativo e Programação Orientada a Objetos (POO).
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Objetivos da Atividade
+
+* **POO na Prática:** Modelar e implementar a classe `Mensagem` aplicando conceitos rígidos de **Encapsulamento** (atributos privados) e **Responsabilidade Única**.
+* **Serialização JSON:** Criação de métodos seguros para expor dados privados da classe em formato JSON.
+* **Endpoints REST:** Expor a classe através de um endpoint utilizando o verbo HTTP `GET`.
+* **Comunicação Cliente-Servidor:** Entender o fluxo de requisição e resposta (Request/Response) e manipulação de parâmetros de URL (Query Strings).
+
+---
+
+##  Tecnologias Utilizadas
 
 * **Back-End:** Node.js (Vanilla / Módulos Nativos `http` e `url`)
 * **Front-End (Teste):** HTML5 e JavaScript Vanilla (Fetch API e History API)
-* [cite_start]**Testes de API:** Postman / Insomnia 
+* **Testes de API:** Postman / Insomnia 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
-[cite_start]O projeto foi dividido separando claramente as responsabilidades do Servidor (API) e do Cliente (Interface)[cite: 61, 62]:
+O projeto foi dividido separando claramente as responsabilidades do Servidor (API) e do Cliente (Interface)[cite: 61, 62]:
 
 ```text
 📦 raiz-do-projeto
