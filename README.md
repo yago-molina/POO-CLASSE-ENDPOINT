@@ -27,7 +27,7 @@ O grande diferencial deste projeto é a construção de uma **API REST puramente
 
 ## Estrutura do Projeto
 
-O projeto foi dividido separando claramente as responsabilidades do Servidor (API) e do Cliente (Interface)[cite: 61, 62]:
+O projeto foi dividido separando claramente as responsabilidades do Servidor (API) e do Cliente (Interface):
 
 ```text
 📦 raiz-do-projeto
